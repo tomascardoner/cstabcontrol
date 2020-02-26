@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Cardoner Sistemas")]
 [assembly: AssemblyProduct("CS-Tab")]
-[assembly: AssemblyCopyright("Copyright © 2019 Cardoner Sistemas")]
+[assembly: AssemblyCopyright("Copyright © 2019-2020 Cardoner Sistemas")]
 [assembly: AssemblyTrademark("® CS-Tab")]
 [assembly: AssemblyCulture("")]
 

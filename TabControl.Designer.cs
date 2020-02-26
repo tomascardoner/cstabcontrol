@@ -33,7 +33,7 @@
             // Tab
             // 
             this.Name = "Tab";
-            this.Size = new System.Drawing.Size(800, 450);
+            this.Size = new System.Drawing.Size(200, 150);
             this.ResumeLayout(false);
 
         }
